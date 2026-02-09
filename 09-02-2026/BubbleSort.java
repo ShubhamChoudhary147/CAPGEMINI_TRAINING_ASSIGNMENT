@@ -1,4 +1,3 @@
-import java.util.*;
 public class BubbleSort {
 	public static void main(String[] args) {
 		int arr[]= {1,5,64,2,3,8,4,1,2,6};
